@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Josué Xavier Rocha
+# 👋 Hello! I'm Josué ROCHA
 
 > **Full-Stack Developer | JavaScript/TypeScript | LegalTech & Mainframe Enthusiast**  
 > I build accessible, scalable, and secure web solutions with clean code and legal-grade rigor.  
