@@ -54,8 +54,7 @@
 ## 📚 Currently Learning
 
 - 🧬 **COBOL & z/OS mainframe development** — to bridge modern and legacy systems in critical environments.
-- 🌐 **Next.js & GraphQL** — expanding front-end performance and API integration.
-- 🔐 **Advanced web security** — with focus on authentication, rate-limiting, and GDPR compliance.
+- 🖥️ **C/C++ & algorithmique** — pour renforcer mes bases en programmation système et en résolution de problèmes complexes.
 
 ---
 
